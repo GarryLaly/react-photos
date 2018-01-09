@@ -1,0 +1,22 @@
+@import './vendor/bootstrap/css/bootstrap.min.css';
+
+.modal.show {
+  display: block;
+}
+
+.modal-backdrop.hide {
+  display: none;
+}
+
+.ThumbnailList {
+
+}
+.ThumbnailList-item {
+  cursor: pointer;
+}
+.ThumbnailList-item-image {
+
+}
+.ThumbnailList-item-title {
+  font-size: 14px;
+}
